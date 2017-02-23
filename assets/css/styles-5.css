@@ -42,6 +42,13 @@ a:focus {
 p {
   line-height: 1.5;
 }
+.aaa {
+  font-size: 25px;
+  font-weight: 900;
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
 .wrapper {
   background: #FDA246;
   max-width: 960px;
@@ -69,8 +76,8 @@ p {
   text-align: center;
   color: #fff;
 }
-.sidebar-wrapper .name {
-  font-size: 32px;
+.sidebar-wrapper .name1 {
+  font-size: 15px;
   font-weight: 900;
   margin-top: 0;
   margin-bottom: 10px;

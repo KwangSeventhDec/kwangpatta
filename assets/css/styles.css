@@ -70,10 +70,17 @@ p {
   color: #fff;
 }
 .sidebar-wrapper .name {
-  font-size: 32px;
+  font-size: 25px;
   font-weight: 900;
   margin-top: 0;
   margin-bottom: 10px;
+}
+.aaa {
+  font-size: 25px;
+  font-weight: 900;
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #ffffff;
 }
 .sidebar-wrapper .tagline {
   color: rgba(255, 255, 255, 0.6);
